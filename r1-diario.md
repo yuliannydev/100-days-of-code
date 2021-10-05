@@ -24,6 +24,21 @@ Empecé el curriculo de Diseño Web Responsivo en Free Code Camp.
 
 ### R1D3
 
+Termine el módulo de CSS básico, y estuvo super emocionante.
+Los últimos temas me atraparon, termine haciendo muchas anotaciones de:
+
+- Creación, reutilización de variables, y fallback.
+- Herencia.
+- Browser fallbacks.
+
+Seguí con un proyecto de Reactjs para mi portafolio.
+
+- Agregue manejo de errores
+- Cree un custom hook
+- use react-router-dom
+
+[Echa un viztazo al Proyecto de React](https://github.com/yuliannydev/simple-blog-with-react)
+
 ### R1D4
 
 ### R1D5
