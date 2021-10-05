@@ -7,10 +7,6 @@
 - [Preguntas frecuentes](preguntas_frecuentes.md)
 - [Recursos](recursos.md)
 
-## Translations
-
-- [Español](README.md) –
-
 ## Si ha decidido unirse:
 
 0.  Mire [el sitio Oficial](http://100daysofcode.com/) para el movimiento #100DaysOfCode. Conecte con otra gente en la plataforma que elija de esta lista: www.100DaysOfCode.com/connect. Puede encontrar [aquí](https://www.100daysofcode.com/slack) un enlace de invitación al canal de Slack.
@@ -33,5 +29,5 @@ Le recomiendo que se comprometa con no más de 2 o 3 retos a la vez, idealmente 
 
 ## Nota
 
-- Si tienes preguntas o ideas sobre 100DaysOfCode (u otras ideas), no duda en contactarme en Twitter: [@ka11away](https://twitter.com/ka11away)
+- Si tienes preguntas o ideas sobre 100DaysOfCode (u otras ideas), no dude en contactar en Twitter a: [@ka11away](https://twitter.com/ka11away)
 - Si le gusta este repositorio y lo encuentra útil, por favor, considera &#9733; darle un estrella (en la parte superior derecha :)

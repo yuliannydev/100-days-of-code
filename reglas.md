@@ -6,7 +6,7 @@
 
 #### Fecha de inicio
 
-25 de junio de 2016. [ponga su nombre aquí]
+03 de octubre de 2021. [Yulianny Betancourt]
 
 ## Reglas adicionales
 
@@ -26,11 +26,11 @@
 
 2.  Si te enojas o te atascado lee este artículo [Aprendiendo a programar, cuando se vuelve oscuro](https://www.freecodecamp.org/news/learning-to-code-when-it-gets-dark-e485edfb58fd)
 
-    * Está en ingles
+    - Está en ingles
 
 3.  Si no sabe por qué hay tanto énfasis en programar proyectos frente hacer tutoriales o cursos en línea, lea esto: [Como obtener un trabajo de programando en menos de un año](https://www.freecodecamp.org/news/how-to-get-a-developer-job-in-less-than-a-year-c27bbfe71645)
 
-    * Está en ingles
+    - Está en ingles
 
 4.  Si no puede poner su código a GitHub por algún razón (por ejemplo si solo está empezar a programar y hace ejercicios interactivos) proporcione un enlace a un tuit. Puede hacer cualquier actividad siempre y cuando el reto permanezca público, reciba el beneficio de confirmaciones público, y mantenga responsabilidad por su progreso.
 
@@ -38,7 +38,7 @@
 
 ## Tabla de contenidos
 
-* [Reglas](reglas.md)
-* [Diario - haga clic aquí para ver mi progreso](diario.md)
-* [Preguntas frecuentes](preguntas_frecuentes.md)
-* [Recursos](recursos.md)
+- [Reglas](reglas.md)
+- [Diario - haga clic aquí para ver mi progreso](diario.md)
+- [Preguntas frecuentes](preguntas_frecuentes.md)
+- [Recursos](recursos.md)
