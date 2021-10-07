@@ -41,6 +41,14 @@ Seguí con un proyecto de Reactjs para mi portafolio.
 
 ### R1D4
 
+Hoy pase más del 50% del modulo de diseño visual aplicado, estoy con la teoría de colores ahorita.
+
+- Conocí useHistory de react-router-dom. (Mañana le hago deploy a este proyecto).
+
+- Y también puse en practica en este proyecto lo aprendido del modulo de CSS básico.
+
+[Mirar avance en Twiter](https://twitter.com/yuliannydev/status/1445927798271533060?s=20)
+
 ### R1D5
 
 ### R1D6
