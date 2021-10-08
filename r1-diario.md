@@ -51,6 +51,20 @@ Hoy pase más del 50% del modulo de diseño visual aplicado, estoy con la teorí
 
 ### R1D5
 
+Día 5 #100daysofcode con #freecodecamp
+
+- Flujo del documento.
+- Position: relatibe, absolute y fixed los protagonistas de hoy, bastante lectura, analisis y practica para entender como se comportan en el flujo del documento.
+- Gradientes.
+- Transformaciones.
+- Animaciones.
+
+Hice Deploy: Un simple blog con Reactjs:
+
+- https://simple-blog-with-react.vercel.app/
+
+- Pueden chequearla y darme feedback. Las capturas son de una vista de iPad. Y para mobile creo que me quedó chula.
+
 ### R1D6
 
 ### R1D7
