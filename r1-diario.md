@@ -67,4 +67,14 @@ Hice Deploy: Un simple blog con Reactjs:
 
 ### R1D6
 
+Día 6 #100DaysOfCode con @freecodecampES
+
+Accesibilidad aplicada ✅
+
+- Este tema me apasiona muuuucho, y fue un disfrute cada lectura y práctica.
+
+Principios de diseño web responsivo. ✅
+
+- Este tema me sirvió para solventar unas inquietudes que tenía sobre media queries.
+
 ### R1D7
