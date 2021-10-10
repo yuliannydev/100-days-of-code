@@ -78,3 +78,27 @@ Principios de diseño web responsivo. ✅
 - Este tema me sirvió para solventar unas inquietudes que tenía sobre media queries.
 
 ### R1D7
+
+Día 7 #100DaysOfCode con #freeCodeCamp
+
+CSS Flexbox ✅
+
+Me tomó todo el día, y varios minutos cada desafió lograr entender qué era lo que estaba pasando. Ahora llegó el momento de jugar Flexbox Froggy, y prepararme para maquetar los proyectos finales.
+
+### R1D8
+
+Día 8 #100DaysOfCode con #freeCodeCamp
+
+A veces tenemos que detenernos a leer mucho la documentación, y es justo lo que hago en este momento. Mientras practico Flexbox.
+
+Inicie con el módulo de CSS GRID.
+
+### R1D9
+
+### R1D10
+
+### R1D11
+
+### R1D12
+
+### R1D13
