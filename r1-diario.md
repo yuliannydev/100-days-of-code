@@ -95,6 +95,13 @@ Inicie con el módulo de CSS GRID.
 
 ### R1D9
 
+Día 9 #100DaysOfCode con #freeCodeCamp
+
+Hasta los momentos todo bien con CSS Grid, está muy emocionante todo el journey que estoy teniendo y me está gustando MUCHO lo que he aprendido. Cohete
+
+Hoy también implementé Flexbox en mi página personal 🥰. Pueden chequearla aquí:
+[Página personal](https://yuliannydev.me)
+
 ### R1D10
 
 ### R1D11
