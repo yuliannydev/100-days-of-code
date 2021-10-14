@@ -104,7 +104,19 @@ Hoy también implementé Flexbox en mi página personal 🥰. Pueden chequearla 
 
 ### R1D10
 
+Día 10 #100DaysOfCode con #freeCodeCamp
+
+CSS Grid Signo grueso blanco de verificación
+
+Debo decir que el nivel de conceptos y estructura que maneja @freecodecampES
+en este certificado ES MÁGNIFICO. Estoy aprendiendo muchas temas interesantes. Y ahora voy por los proyectos a implementar todo.
+
 ### R1D11
+
+Día 11 #100DaysOfCode con #freeCodeCamp
+
+Empecé los proyectos.Rostro ofreciendo un abrazo
+Hoy estuve leyendo un poco sobre a11y, de cómo debemos hacer nuestras páginas accesibles, y también leí un poco de http, de cómo es nuestro deber cómo desarrolladores de software hacer la web más segura.
 
 ### R1D12
 
