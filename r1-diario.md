@@ -120,4 +120,13 @@ Hoy estuve leyendo un poco sobre a11y, de cómo debemos hacer nuestras páginas 
 
 ### R1D12
 
+Día 12 #100DaysOfCode con #freeCodeCamp
+
+Hoy no fue mi día, solo alcance a codear un poquito en la tarde, e hice unos ejercicios de JavaScript de local, y global scope.
+
 ### R1D13
+
+Día 13 #100DaysOfCode con #freeCodeCamp
+
+Lento pero seguro Cara sonriente con ojos sonrientes.
+Hice unos ejercicios de javaScript y pase unos test que me faltaban en el primer proyecto.
