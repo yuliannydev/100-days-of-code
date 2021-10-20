@@ -1,0 +1,161 @@
+<!--
+  * Second project for my certification on Free Code Camp in Responsive Web Design
+  ! FORM DC 
+  ! Element: input radio, checkbox, fielsed, select, textarea and boton
+-->
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="main.css" />
+    <title>FCC - DC form</title>
+  </head>
+
+  <body>
+    <main>
+      <h1 id="title">DC FORM</h1>
+      <p id="description">
+        This form is for getting information about the interest of person on DC
+        characters, colleting data about the favorite movie, favorite character,
+        but your information is not being sent or saved to any cloud, or
+        something like that.
+      </p>
+
+      <!-- * START FORM -->
+      <form id="survey-form">
+        <label id="name-label" for="name">
+          Name
+          <input id="name" placeholder="Enter your name" required />
+        </label>
+
+        <label id="email-label" for="email">
+          Email
+          <input
+            id="email"
+            type="email"
+            placeholder="Enter your email"
+            required
+          />
+        </label>
+
+        <label id="number-label" for="number">
+          Age
+          <input
+            id="number"
+            type="number"
+            min="18"
+            max="99"
+            placeholder="Enter your age"
+            value="number"
+          />
+        </label>
+
+        <!-- * DROPDOWN -->
+        <label for="dropdown">Select your Country</label>
+        <select id="dropdown" required>
+          <option value="select-an-option" disabled selected>
+            Select an option
+          </option>
+          <option value="usa">USA</option>
+          <option value="venezuela">Venezuela</option>
+          <option value="colombia">Colombia</option>
+          <option value="mexico">Mexico</option>
+          <option value="other">Other</option>
+        </select>
+
+        <!-- * INPUT RADIO -->
+        <fieldset>
+          <legend>What is your favorite superhero of DC?</legend>
+          <label for="superhero">
+            <input
+              id="superhero"
+              type="radio"
+              name="superhero"
+              checked
+              value="batman"
+            />
+            Batman
+          </label>
+          <label for="superhero">
+            <input
+              id="superhero"
+              type="radio"
+              name="superhero"
+              value="wonder-woman"
+            />
+            Wonder Woman
+          </label>
+          <label for="superhero">
+            <input
+              id="superhero"
+              type="radio"
+              name="superhero"
+              value="superman"
+            />
+            Superman
+          </label>
+          <label for="superhero">
+            <input id="superhero" type="radio" name="superhero" value="flash" />
+            Flash
+          </label>
+        </fieldset>
+
+        <!-- * INPUT CHECKBOX -->
+        <fieldset>
+          <legend>What is your favorite movie of DC?</legend>
+          <label for="movie">
+            <input
+              id="movie"
+              type="checkbox"
+              name="movie"
+              value="batman'returns"
+            />
+            Batman Begins
+          </label>
+          <label for="movie">
+            <input
+              id="movie"
+              type="checkbox"
+              name="movie"
+              value="wonder-woman-80"
+            />
+            Wonder Woman 80
+          </label>
+          <label for="movie">
+            <input
+              id="movie"
+              type="checkbox"
+              name="movie"
+              value="superman-dead"
+            />
+            Superman dead
+          </label>
+          <label for="movie">
+            <input
+              id="movie"
+              type="checkbox"
+              name="movie"
+              value="flash-point"
+            />
+            Flash point
+          </label>
+        </fieldset>
+
+        <!-- *COMMENTS -->
+        <p>Do you things we have missed any important character?</p>
+        <textarea
+          name=""
+          id=""
+          cols="70"
+          rows="8"
+          placeholder="Enter your comment"
+        ></textarea>
+        <button id="submit" type="submit">Submit</button>
+      </form>
+      <!-- * END FORM -->
+    </main>
+  </body>
+</html>

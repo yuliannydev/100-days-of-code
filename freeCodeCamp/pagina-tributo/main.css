@@ -2,11 +2,18 @@ body {
   margin: 0;
   font-size: 16px;
   background-color: white;
+  padding: 0;
+}
+main {
+  border: #f3e75e 7px solid;
 }
 #title {
   text-align: center;
   padding: 1rem 0;
-  background-color: #f1f1f1;
+  background-color: #f3e75e;
+  border: black 2px solid;
+  margin: 1rem auto;
+  max-width: 1400px;
 }
 h1 {
   font-size: 3rem;
@@ -16,6 +23,7 @@ h1 {
   max-width: 100%;
   display: block;
   margin: 0 auto;
+  border: black 2px solid;
 }
 
 #img-div {
@@ -39,7 +47,7 @@ h1 {
 }
 @media (max-width: 560px) {
   #img-caption {
-    margin: 1rem 0;
+    margin: 1rem 2rem;
     font-size: 1.2rem;
   }
   #tribute-info {
@@ -47,7 +55,17 @@ h1 {
     padding: 0.6rem;
     max-width: 80%;
     margin: 0 auto;
-    font-size: 1rem;
+    font-size: 1.1rem;
     line-height: 1.4rem;
+  }
+  #image {
+    max-width: 80%;
+    display: block;
+    margin: 0 auto;
+    border: black 2px solid;
+  }
+  #img-caption {
+    margin: 1rem;
+    font-size: 1.5rem;
   }
 }

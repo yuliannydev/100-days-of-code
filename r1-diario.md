@@ -130,3 +130,11 @@ Día 13 #100DaysOfCode con #freeCodeCamp
 
 Lento pero seguro Cara sonriente con ojos sonrientes.
 Hice unos ejercicios de javaScript y pase unos test que me faltaban en el primer proyecto.
+
+### R1D14
+
+### R1D15
+
+### R1D16
+
+### R1D17

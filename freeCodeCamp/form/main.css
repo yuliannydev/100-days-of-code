@@ -1,0 +1,164 @@
+body {
+  background-image: url(https://i.imgur.com/Fn0LOQu.jpg);
+  margin: 0 auto;
+  padding: 5rem;
+  max-width: 900px;
+  font-size: 17px;
+}
+
+main {
+  background-color: #166ad2;
+  color: white;
+  border-radius: 1rem;
+  border: 3px yellow solid;
+  padding: 2rem;
+  height: auto;
+  line-height: 2.5rem;
+  font-size: 1.4rem;
+}
+
+#title {
+  font-size: 3rem;
+  padding: 1rem 0;
+  text-align: center;
+}
+
+#description {
+  padding: 0 2rem;
+  margin-top: 0;
+}
+
+#survey-form {
+  padding: 0 2rem;
+}
+
+#name-label,
+#email-label,
+#number-label {
+  cursor: pointer;
+}
+
+fieldset {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  margin-top: 1rem;
+}
+
+#name,
+#email,
+#number {
+  width: 97%;
+  padding: 0.8rem;
+  display: block;
+  border: 0px;
+}
+
+#dropdown {
+  width: 100%;
+  padding: 0.8rem;
+  background-color: white;
+}
+textarea {
+  display: block;
+  margin: 1rem auto;
+  border-radius: 7px;
+  max-width: 98%;
+  font-size: 1.2rem;
+}
+
+textarea:hover {
+  border: 2px yellow solid;
+  border-radius: 5px;
+}
+p {
+  text-align: center;
+}
+
+input,
+select {
+  border-radius: 7px;
+  font-size: 1.2rem;
+}
+#submit {
+  display: block;
+  margin: 0 auto;
+  padding: 0.8rem;
+  border-radius: 7px;
+  background-color: yellow;
+  border: 1px black solid;
+  font-size: 1.4rem;
+}
+
+@media (max-width: 380px) {
+  body {
+    padding: 1rem;
+  }
+  main {
+    padding: 1rem;
+    font-size: 1.3rem;
+    line-height: 2rem;
+  }
+
+  #title {
+    font-size: 2.5rem;
+    padding: 0.5rem 0;
+  }
+
+  #description {
+    padding: 0 0.5rem;
+    text-align: justify;
+  }
+
+  #survey-form {
+    padding: 0 0.5rem;
+  }
+
+  #name,
+  #email,
+  #number {
+    width: 91%;
+    margin: 0.4rem 0;
+  }
+
+  #name-label,
+  #email-label,
+  #number-label {
+    display: block;
+    margin-bottom: 0.6rem;
+  }
+
+  fieldset {
+    margin-top: 0.8rem;
+  }
+  textarea {
+    font-size: 1rem;
+  }
+
+  #submit {
+    font-size: 1.3rem;
+  }
+}
+
+@media (max-width: 411px) {
+  body {
+    max-width: 395px;
+    padding: 1rem;
+  }
+  main {
+    padding: 1rem;
+  }
+  #survey-form {
+    padding: 0 0.5rem;
+  }
+  #description {
+    padding: 0 0.5rem;
+    text-align: justify;
+  }
+  #name,
+  #email,
+  #number {
+    width: 92%;
+    margin: 0.4rem 0;
+  }
+}
