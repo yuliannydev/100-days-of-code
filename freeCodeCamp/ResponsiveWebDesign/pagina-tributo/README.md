@@ -1,4 +1,9 @@
-## Historias de Usuario
+Construye una página tributo
+Objetivo: Construye una aplicación en CodePen.io que funcionalmente sea similar a esta: https://codepen.io/freeCodeCamp/full/zNqgVx.
+
+Completa las siguientes historias de usuario y consigue aprobar todos los tests. Dale tu propio estilo personal.
+
+Puedes usar HTML, JavaScript y CSS para completar este proyecto. Se recomienda usar CSS puro porque eso es lo que las lecciones han cubierto hasta ahora y debes practicar un poco con él. Puedes usar Bootstrap o SASS si lo deseas. Tecnologías adicionales (por ejemplo, jQuery, React, Angular o Vue) no se recomiendan para este proyecto, y usarlas es bajo tu propio riesgo. Otros proyectos te darán la oportunidad de trabajar con diferentes stacks de tecnologías como React. Aceptaremos e intentaremos solucionar todos los informes de incidencias que utilicen el stack de tecnología sugerido para este proyecto. ¡Feliz día programando!
 
 Historia de Usuario #1: Mi página tributo debería tener un elemento con un respectivo id="main", el cual contiene todos los demás elementos.
 
@@ -17,3 +22,7 @@ Historia de Usuario #7: Debería ver un elemento a con un respectivo id="tribute
 Historia de Usuario #8: El elemento img debería cambiar de tamaño de forma responsiva, en relación al ancho de su elemento padre, sin exceder su tamaño original.
 
 Historia de Usuario #9: El elemento img debería estar centrado dentro de su elemento padre.
+
+Puedes construir tu proyecto usando esta plantilla CodePen y haciendo clic en Save para crear tu propio pen. O puedes utilizar este enlace CDN para ejecutar los tests en cualquier entorno que desees: https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js.
+
+Una vez que hayas terminado, envía la URL de tu proyecto funcional con todos los tests aprobados.

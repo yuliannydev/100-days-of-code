@@ -133,8 +133,36 @@ Hice unos ejercicios de javaScript y pase unos test que me faltaban en el primer
 
 ### R1D14
 
+Día 14 #100DaysOfCode con #freeCodeCamp
+
+HTML + CSS + JS. En este stack estaré todo lo que resta del mes. Terminando los proyectos y practicando con ejercicios.
+
+[Mirar avance en Twiter](https://twitter.com/yuliannydev/status/1449559579763908610)
+
 ### R1D15
+
+Día 15 #100DaysOfCode con #freeCodeCamp
+
+Estoy haciendo un formulario de Superheroes 😁. Ya tengo todas las historias de usuarios completadas, ahora voy con los estilo.
+
+[Mirar avance en Twiter](https://twitter.com/yuliannydev/status/1449900063455686662)
 
 ### R1D16
 
+Día 16 #100DaysOfCode con #freeCodeCamp
+
+Ya llevo más de la mitad del primer módulo de Algoritmos de JavaScript y estructuras de datos.
+
+Y me falta una historia de usuario del form. Qué pensé que era de estilos pero aquí estoy 😅🤞🏼.
+
+[Mirar avance en Twiter](https://twitter.com/yuliannydev/status/1450307020150779905)
+
 ### R1D17
+
+Día 17 #100DaysOfCode con #freeCodeCamp
+
+Estoy haciendo Ejercicios de JavaScript en las tardes y los proyectos en las noches.
+
+Terminé el form, me tomó rato el CSS, hacer que sea responsive y que todo quedé bonito. 🤓
+
+[Mirar segundo proyecto en Codepen](https://codepen.io/yuliannydev/pen/abyNNLz)
