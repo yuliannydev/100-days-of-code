@@ -1,0 +1,33 @@
+/* Small devices (phones, less than 576px) */
+@media (max-width: 576px) {
+  body {
+    margin: 0 auto;
+    background-color: #c76161;
+  }
+  .header {
+  }
+
+  nav a {
+    font-size: 1.5rem;
+    color: white;
+  }
+
+  /* Medium devices (tablets, less than 992px) */
+  @media (max-width: 992px) {
+  }
+
+  /* Large devices (desktops, less than 1200px) */
+  @media (max-width: 1200px) {
+  }
+
+  main {
+    /*     display: flex;
+    text-align: center;
+    justify-content: center;
+    flex-direction: column; */
+  }
+  /* .form {
+    display: flex;
+    flex-direction: column;
+  } */
+}

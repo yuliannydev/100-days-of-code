@@ -166,3 +166,49 @@ Estoy haciendo Ejercicios de JavaScript en las tardes y los proyectos en las noc
 Terminé el form, me tomó rato el CSS, hacer que sea responsive y que todo quedé bonito. 🤓
 
 [Mirar segundo proyecto en Codepen](https://codepen.io/yuliannydev/pen/abyNNLz)
+
+### R1D18
+
+Día 18 #100DaysOfCode con #freeCodeCamp
+
+Hoy hice un ejercicio del juego de Black Jack que me puso hacer pseudocódigo para analizar el problema. De verdad están muy divertidos los ejercicios, y me generan cada curiosidad que hace que me pierda entre el codigo y lo que aprendo.
+
+### R1D19
+
+Día 19 #100DaysOfCode con #freeCodeCamp
+
+Empecé el tercer proyecto de Responsive Web Design, es una Landing page 😁
+
+Y estoy en Objetos en el primer módulo de JavaScript, ya casi llego al 80% de ese módulo. Aprendí la diferencia de brackets notation y dot notation 😊
+
+### R1D20
+
+Día 20 #100DaysOfCode con #freeCodeCamp
+
+Hoy conocí el método hasOwnProperty, que nos permite saber si una propiedad está en un objeto que estamos recibiendo como parametro en una función, o en el mismo scope de la función del objeto dado.
+
+### R1D21
+
+Día 21 #100DaysOfCode con #freeCodeCamp
+
+Llevo 1 hora o más debugeando un ejercicio de JavaScript y no me sale.
+
+Tiempo de pasar a HTML + CSS y seguir con la landing page.
+
+### R1D22
+
+### R1D23
+
+### R1D24
+
+### R1D25
+
+### R1D26
+
+### R1D27
+
+### R1D28
+
+### R1D29
+
+### R1D30
