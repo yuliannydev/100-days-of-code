@@ -197,6 +197,10 @@ Tiempo de pasar a HTML + CSS y seguir con la landing page.
 
 ### R1D22
 
+Día 22 #100DaysOfCode con #freeCodeCamp
+
+La lógica que desarrollan los ejercicios de JavaScript me están haciendo sentir que llevo buen crecimiento. Vi un poquito de JavaScript hoy, y estoy haciendo CSS implemantando mobile first.
+
 ### R1D23
 
 ### R1D24
