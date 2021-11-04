@@ -10,6 +10,12 @@
 
 @import url("https://fonts.googleapis.com/css2?family=Quicksand&display=swap");
 
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
 html {
   font-size: 62.5%;
 }
@@ -61,13 +67,17 @@ p {
 }
 
 .nav-bar-class ul li {
-  margin-left: 4rem;
   list-style: none;
+}
+
+.nav-bar-class ul li:nth-child(2),
+.nav-bar-class ul li:nth-child(3) {
+  margin-left: 2.6rem;
 }
 
 main {
   width: 800px;
-  margin: 16rem auto 4rem;
+  margin: 12rem auto 4rem;
 }
 
 .title {
@@ -173,7 +183,7 @@ input[type="submit"] {
 
 .suscribe {
   text-align: center;
-  padding-top: 3rem;
+  padding: 3rem 0 4rem;
 }
 
 footer {
@@ -187,7 +197,7 @@ footer {
   .header-class {
     width: auto;
     text-align: center;
-    padding: 0;
+    padding: 2rem 0;
   }
 
   .header-nav {
@@ -220,8 +230,6 @@ footer {
     margin: 0 auto;
     width: auto;
     text-align: center;
-    padding-top: 0;
-    padding-bottom: 0;
   }
 
   .header-img {
@@ -240,17 +248,13 @@ footer {
     display: flex;
     padding: 1rem;
   }
-
-  .nav-bar ul li {
-    margin-left: 2rem;
-  }
 }
 
 /* Small devices (phones, less than 576px) */
-@media (max-width: 576px) {
+@media (max-width: 645px) {
   main {
     width: 90%;
-    margin: 21rem auto 4rem;
+    margin: 16rem auto 4rem;
   }
 
   body {
@@ -266,6 +270,7 @@ footer {
 
   .nav-link {
     font-size: 1.9rem;
+    margin-left: 0;
   }
 
   .header-img {
@@ -278,11 +283,7 @@ footer {
 
   .nav-bar-class ul {
     display: flex;
-    padding: 0.5rem;
-  }
-
-  .nav-bar-class ul li {
-    margin-left: 1rem;
+    padding: 2rem 0;
   }
 
   .title {
