@@ -4,8 +4,10 @@
   --blue: rgb(30, 42, 120);
   --blue-light: #46529b;
   --text-sm: 1.6rem;
+  --text-sm-mobile: 1.8rem;
   --text-md: 2rem;
   --text-lg: 2.2rem;
+  --text-xl: 2.4rem;
 }
 
 @import url("https://fonts.googleapis.com/css2?family=Quicksand&display=swap");
@@ -24,7 +26,7 @@ body {
   color: var(--black);
   background-color: var(--white);
   margin: 0 auto;
-  font-size: 2.4rem;
+  font-size: var(--text-xl);
   height: 100vh;
   font-family: "Quicksand", sans-serif;
 }
@@ -34,7 +36,7 @@ p {
 }
 
 .header-class {
-  border-bottom: 5px black solid;
+  border-bottom: 5px #ecb64b solid;
   padding: 2rem 3rem;
   background: var(--blue-light);
   font-size: var(--text-lg);
@@ -46,7 +48,7 @@ p {
 }
 
 .header-img {
-  width: 120px;
+  width: 130px;
   height: auto;
 }
 .header-nav {
@@ -168,7 +170,7 @@ iframe {
   padding-bottom: 2rem;
 }
 .input-email {
-  font-size: 1.6rem;
+  font-size: var(--text-sm);
   padding: 1rem;
   margin-right: 1rem;
 }
@@ -178,7 +180,7 @@ input[type="submit"] {
   background-color: var(--blue);
   color: var(--white);
   padding: 1rem;
-  font-size: 1.6rem;
+  font-size: var(--text-sm);
 }
 
 .suscribe {
@@ -190,6 +192,7 @@ footer {
   text-align: center;
   font-size: var(--text-sm);
   padding-bottom: 1rem;
+  border-bottom: 5px #ecb64b solid;
 }
 /* Large devices (desktops, less than 1200px) */
 
@@ -236,7 +239,7 @@ footer {
     padding-left: 1.5rem;
   }
   nav a {
-    font-size: 2rem;
+    font-size: var(--text-md);
   }
 
   .header-nav {
@@ -258,7 +261,7 @@ footer {
   }
 
   body {
-    font-size: 1.8rem;
+    font-size: var(--text-sm-mobile);
   }
   .header-class {
     width: auto;
@@ -269,7 +272,7 @@ footer {
   }
 
   .nav-link {
-    font-size: 1.9rem;
+    font-size: var(--text-md);
     margin-left: 0;
   }
 
