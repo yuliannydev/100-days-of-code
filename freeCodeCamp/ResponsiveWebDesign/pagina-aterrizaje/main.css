@@ -268,7 +268,7 @@ footer {
     text-align: center;
     padding-top: 1rem;
     padding-bottom: 0;
-    border-bottom: 3px black solid;
+    border-bottom: 3px #ecb64b solid;
   }
 
   .nav-link {

@@ -203,16 +203,80 @@ La lógica que desarrollan los ejercicios de JavaScript me están haciendo senti
 
 ### R1D23
 
+Día 23 #100DaysOfCode con #freeCodeCamp
+
+Hoy hice ejercicios de iteraciones con while (recordando un poco la universidad).
+
+Agregue el form a mi portafolio.
+
 ### R1D24
+
+Día 24 #100DaysOfCode con #freeCodeCamp
+
+Más Iteraciones con while, for, y for anidados, con los métodos push, pop, shift, y unshift.
+También practique un array hoy, splice específicamente.
 
 ### R1D25
 
+Día 25 #100DaysOfCode con #freeCodeCamp
+
+Hoy hice ejercicios de bucles anidados. While, do while y recursión.
+
 ### R1D26
+
+Día 26 #100DaysOfCode con #freeCodeCamp
+
+Estos días me ha faltado un poco la motivación en las mañana/tardes, y en las noches es que estudio porque me lo propongo. Hoy terminé los temas básicos de Js.
+
+Y estoy cambiando la rutina de como sacaba los proyectos finales.
 
 ### R1D27
 
+Día 27 #100DaysOfCode con #freeCodeCamp
+
+Me siento mucho más comoda maquetando, puedo decir que ya se me hace fácil maquetar diseños unidimensionales.
+
 ### R1D28
+
+Día 28 #100DaysOfCode con #freeCodeCamp
+
+A pesar de tener un gripe tremenda pude hacer unos ejercicios de JavaScript y maquetar unas pantallas. Y me siento bien con los avances que he ido teniendo, que es la idea principal de este reto.
 
 ### R1D29
 
+Día 29 #100DaysOfCode con #freeCodeCamp
+
+Casi paso por alto mi resúmen.
+
+Me consumió el Código hoy Cara con la mano sobre la boca. Aprendí cosas nuevas sobre a11y, unas propiedades de css que no conocía, y patrones que suelen usarse al momento de estilizar pero que no son buenos para la accesibilidad.
+
 ### R1D30
+
+Día 30 #100DaysOfCode con #freeCodeCamp
+
+Hoy se cumple un mes desde que empecé a hacer este reto y siento que está pasando mi "Aha moment". Estoy disfrutando mucho todo lo aprendido y teniendo mucha más fluidez al momento de desarrollar. Y no sólo copy + paste de los tutoriales.
+
+### R1D31
+
+Día 31 😅
+[Mirar avance en Twiter](https://twitter.com/yuliannydev/status/1455801808908128263)
+
+### R1D32
+
+Día 32 #100DaysOfCode con #freeCodeCamp
+
+Landing page ✅
+
+Technical documentation page, por fin ya sé de que la quiero hacer. Cara sonriente con ojos sonrientes De un tema que me ha llamado mucho la atención, y al ser una documentación me servirá para aprender más al respecto.
+
+[Mirar Landing page](https://landing-page-ecommerce.vercel.app)
+
+### R1D33
+
+### R1D34
+
+### R1D35
+
+### R1D36
+
+### R1D37
