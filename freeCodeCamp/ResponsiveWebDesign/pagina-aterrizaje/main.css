@@ -1,9 +1,17 @@
 :root {
   --black: #363812;
-  --white: #fff;
+  --white: #edfafe;
+  --blue: rgb(30, 42, 120);
+  --blue-light: #46529b;
+  --text-sm: 1.6rem;
+  --text-md: 2rem;
+  --text-lg: 2.2rem;
 }
+
+@import url("https://fonts.googleapis.com/css2?family=Quicksand&display=swap");
+
 html {
-  font-size: 10px;
+  font-size: 62.5%;
 }
 
 body {
@@ -11,13 +19,24 @@ body {
   background-color: var(--white);
   margin: 0 auto;
   font-size: 2.4rem;
+  height: 100vh;
+  font-family: "Quicksand", sans-serif;
 }
 
-.header {
-  border: 5px black solid;
+p {
+  margin: 0;
+}
+
+.header-class {
+  border-bottom: 5px black solid;
   padding: 2rem 3rem;
-  background-color: yellow;
-  /* position: sticky; */
+  background: var(--blue-light);
+  font-size: var(--text-lg);
+  position: fixed;
+  left: 0;
+  right: 0;
+  top: 0;
+  z-index: 1;
 }
 
 .header-img {
@@ -30,45 +49,157 @@ body {
   align-items: center;
 }
 
-nav a {
+.nav-link {
   text-decoration: none;
   text-transform: uppercase;
+  color: var(--white);
+  font-weight: bold;
 }
 
-.nav-link {
-  list-style: none;
-}
-
-.nav-bar ul {
+.nav-bar-class ul {
   display: flex;
 }
 
-.nav-bar ul li {
+.nav-bar-class ul li {
   margin-left: 4rem;
+  list-style: none;
+}
+
+main {
+  width: 800px;
+  margin: 16rem auto 4rem;
+}
+
+.title {
+  text-align: center;
+  padding: 5rem 0;
+}
+.title a,
+.subtitle {
+  color: var(--black);
+  text-decoration: none;
+  color: var(--blue);
+}
+
+.about-us p {
+  text-align: justify;
+}
+
+.services p {
+  text-align: justify;
+}
+
+.list-card {
+  display: grid;
+  gap: 20px;
+  grid-template-columns: 1fr 1fr;
+}
+
+.card {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  box-shadow: 1px 4px 2px var(--blue-light);
+}
+
+.card-service {
+  border: 2px solid var(--blue);
+  border-radius: 10px;
+  padding: 0.5rem 1.5rem 2rem;
+  background-color: var(--white);
+}
+
+.card-prices {
+  border: 2px solid var(--blue);
+  border-radius: 10px;
+  padding: 0.5rem 1.5rem 2rem;
+  background-color: var(--white);
+}
+
+.card-prices ul {
+  padding: 0;
+}
+
+.card-prices ul li {
+  list-style: none;
+  padding-bottom: 0.8rem;
+}
+
+.title-card {
+  font-weight: bold;
+  text-align: center;
+  padding: 0.8rem 0;
+  color: var(--blue);
+  font-size: var(--text-md);
+}
+.list-card .card .icon-card,
+.prices .card .icon-card {
+  width: 65px;
+  height: 65px;
+  padding-top: 1rem;
+}
+
+iframe {
+  width: 760px;
+  height: 500px;
+  margin: 0.5rem 0;
+}
+
+.video {
+  text-align: center;
+}
+
+.form-class {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding-bottom: 2rem;
+}
+.input-email {
+  font-size: 1.6rem;
+  padding: 1rem;
+  margin-right: 1rem;
+}
+
+input[type="submit"] {
+  border-radius: 2px;
+  background-color: var(--blue);
+  color: var(--white);
+  padding: 1rem;
+  font-size: 1.6rem;
+}
+
+.suscribe {
+  text-align: center;
+  padding-top: 3rem;
+}
+
+footer {
+  text-align: center;
+  font-size: var(--text-sm);
+  padding-bottom: 1rem;
 }
 /* Large devices (desktops, less than 1200px) */
 
 @media (max-width: 1200px) {
-  .header {
+  .header-class {
     width: auto;
     text-align: center;
     padding: 0;
   }
 
   .header-nav {
-    display: flex;
     flex-direction: row;
-    justify-content: space-between;
-    align-items: center;
     padding-left: 2rem;
   }
 
-  .nav-bar {
+  .nav-bar-class {
     padding-right: 2rem;
   }
 
-  .nav-bar ul {
-    display: flex;
+  .nav-bar-class ul {
     padding: 1rem;
   }
 
@@ -79,13 +210,15 @@ nav a {
 
 /* Medium devices (tablets, less than 992px) */
 @media (max-width: 992px) {
+  main {
+    margin: 13rem auto 4rem;
+  }
   body {
     margin: 0 auto;
   }
-  .header {
+  .header-class {
     margin: 0 auto;
     width: auto;
-    background-color: yellow;
     text-align: center;
     padding-top: 0;
     padding-bottom: 0;
@@ -99,14 +232,11 @@ nav a {
   }
 
   .header-nav {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
     flex-direction: row;
     padding-right: 1.5rem;
   }
 
-  .nav-bar ul {
+  .nav-bar-class ul {
     display: flex;
     padding: 1rem;
   }
@@ -118,34 +248,62 @@ nav a {
 
 /* Small devices (phones, less than 576px) */
 @media (max-width: 576px) {
-  .header {
+  main {
+    width: 90%;
+    margin: 21rem auto 4rem;
+  }
+
+  body {
+    font-size: 1.8rem;
+  }
+  .header-class {
     width: auto;
     text-align: center;
     padding-top: 1rem;
     padding-bottom: 0;
-    border: 3px black solid;
+    border-bottom: 3px black solid;
   }
 
-  nav a {
-    font-size: 2rem;
+  .nav-link {
+    font-size: 1.9rem;
   }
 
   .header-img {
     padding: 0;
   }
   .header-nav {
-    display: flex;
     justify-content: center;
-    align-items: center;
     flex-direction: column;
   }
 
-  .nav-bar ul {
+  .nav-bar-class ul {
     display: flex;
     padding: 0.5rem;
   }
 
-  .nav-bar ul li {
-    margin-left: 1.4rem;
+  .nav-bar-class ul li {
+    margin-left: 1rem;
+  }
+
+  .title {
+    padding: 3rem 0;
+  }
+
+  iframe {
+    width: 340px;
+    height: 200px;
+    margin: 0.5rem 0;
+  }
+
+  .list-card {
+    grid-template-columns: auto;
+  }
+
+  .list-card .card-service:nth-child(1) {
+    margin-bottom: 2.5rem;
+  }
+
+  .prices .card-prices {
+    margin-bottom: 2.5rem;
   }
 }

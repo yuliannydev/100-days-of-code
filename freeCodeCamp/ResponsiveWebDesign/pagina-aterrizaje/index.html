@@ -7,48 +7,135 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" href="main.css" />
-    <title>Document</title>
+    <title>Raydesite E-commerce</title>
   </head>
   <body>
     <!-- *HEADER -->
-    <header id="header" class="header header-nav">
+    <header id="header" class="header-class header-nav">
       <img
         id="header-img"
-        src="megaphone.png"
-        alt="Logotipo"
+        src="https://i.imgur.com/YFESCFE.png"
+        alt="Raydesite"
         class="header-img"
       />
-      <nav id="nav-bar" class="nav-bar">
+      <nav id="nav-bar" class="nav-bar-class">
         <ul>
-          <li class="nav-link"><a href="#about-us">About us</a></li>
-          <li class="nav-link"><a href="#services">Services</a></li>
-          <li class="nav-link"><a href="#prices">Prices</a></li>
+          <li><a href="#about-us" class="nav-link">About us</a></li>
+          <li><a href="#services" class="nav-link">Services</a></li>
+          <li><a href="#pricing" class="nav-link">Pricing</a></li>
         </ul>
       </nav>
     </header>
     <!-- * MAIN -->
     <main>
-      <!-- * Section 1 - Video -->
-      <section>
-        <video id="video" src=""></video>
+      <!-- * ABOUT US -->
+      <section class="about-us" id="about-us">
+        <h1 class="title"><a href="#about-us">About us</a></h1>
+        <p>
+          Lorem ipsum dolor sit, amet consectetur adipisicing elit. Aliquid
+          expedita non magnam perferendis sed delectus commodi, dolore sapiente
+          iste voluptatibus cupiditate molestias facere magni rem alias optio at
+          saepe aspernatur!
+        </p>
       </section>
-
-      <!-- * Section 2 - Form -->
+      <!-- * SERVICES -->
+      <section class="services" id="services">
+        <h2 class="title"><a href="#services">Services</a></h2>
+        <div class="list-card">
+          <div class="card card-service">
+            <img
+              src="./assets/shopping-online.png"
+              alt="Promo one"
+              class="icon-card"
+            />
+            <p class="title-card">Promo One</p>
+            <p>
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum
+              recusandae ipsa, voluptates, nihil quibusdam quas expedita
+              consequatur.
+            </p>
+          </div>
+          <div class="card card-service">
+            <img
+              src="./assets/ecommerce.png"
+              alt="Promo two"
+              class="icon-card"
+            />
+            <p class="title-card">Promo Two</p>
+            <p>
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum
+              recusandae ipsa, voluptates, nihil quibusdam quas expedita
+              consequatur.
+            </p>
+          </div>
+        </div>
+      </section>
+      <!-- * Section - Video -->
+      <section class="video">
+        <h2 class="title subtitle">Más sobre nosotras</h2>
+        <iframe
+          id="video"
+          src="https://www.youtube.com/embed/qxhj4ahR4Vg"
+          title="YouTube video player"
+          frameborder="0"
+          allowfullscreen
+        >
+        </iframe>
+      </section>
+      <!-- * PRICING -->
+      <section class="prices" id="prices">
+        <h2 class="title"><a href="#pricing">Pricing</a></h2>
+        <div class="list-card">
+          <div class="card card-prices">
+            <img src="./assets/3.png" alt="Plan basic" class="icon-card" />
+            <p class="title-card">Basic</p>
+            <p class="title-card">$120</p>
+            <ul>
+              <li>Lorem ipsum</li>
+              <li>Lorem ipsum</li>
+              <li>Lorem ipsum</li>
+            </ul>
+          </div>
+          <div class="card card-prices">
+            <img src="./assets/4.png" alt="Plan Complete" class="icon-card" />
+            <p class="title-card">Complete</p>
+            <p class="title-card">$180</p>
+            <ul>
+              <li>Lorem ipsum</li>
+              <li>Lorem ipsum</li>
+              <li>Lorem ipsum</li>
+            </ul>
+          </div>
+        </div>
+      </section>
+      <!-- * Section - Form -->
       <section>
+        <h3 class="suscribe">Suscribe whit your email</h3>
         <form
           id="form"
-          action="https://www.reecodecamp.com/email-submit"
-          class="form"
+          action="https://www.freecodecamp.com/email-submit"
+          class="form-class"
         >
-          <label for="email">
-            Email
-            <input id="email" type="email" placeholder="Enter an valid email" />
-          </label>
-          <label for="submit">
-            <input id="submit" type="submit" />
-          </label>
+          <input
+            name="email"
+            id="email"
+            type="email"
+            placeholder="Enter an valid email"
+            class="input input-email"
+            required
+          />
+
+          <input
+            id="submit"
+            type="submit"
+            class="input input-email"
+            value="send"
+          />
         </form>
       </section>
     </main>
+    <footer>
+      <p>Izquierdos reservados 2021</p>
+    </footer>
   </body>
 </html>

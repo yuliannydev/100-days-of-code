@@ -1,0 +1,16 @@
+/* * Clases
+* main-doc
+* main-section
+* 
+*/
+
+@import url("https://fonts.googleapis.com/css2?family=IBM+Plex+Sans&family=Quicksand&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: "IBM Plex Sans", sans-serif;
+}

@@ -29,7 +29,7 @@ Historia de Usuario #11: Dentro del formulario, hay un input de envío con un re
 
 Historia de Usuario #12: Cuando hago clic en el elemento #submit, el correo electrónico se envía a una página estática (utiliza esta URL de pruebas: https://www. reecodecamp.com/email-submit).
 
-Historia de Usuario #13: La barra de navegación debe estar siempre en la parte superior del viewport.
+### Historia de Usuario #13: La barra de navegación debe estar siempre en la parte superior del viewport.
 
 Historia de Usuario #14: Mi página de aterrizaje de producto debería tener al menos una media query.
 
