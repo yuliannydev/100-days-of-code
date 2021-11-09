@@ -6,11 +6,49 @@
 
 @import url("https://fonts.googleapis.com/css2?family=IBM+Plex+Sans&family=Quicksand&display=swap");
 
-* {
+body {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
 }
+
+html {
+  font-size: 62.5%;
+}
+
 body {
   font-family: "IBM Plex Sans", sans-serif;
+}
+
+/* * Variables */
+:root {
+  --white: #fafbfc;
+  --black: #171f2d;
+  --text-sm: 1.6rem;
+  --text-sm-mobile: 1.8rem;
+  --text-md: 2rem;
+  --text-lg: 2.2rem;
+  --text-xl: 2.4rem;
+}
+body {
+  background-color: var(--white);
+  color: var(--black);
+  max-width: 800px;
+  font-size: var(--text-md);
+  margin: 0 auto;
+}
+
+main {
+  margin: 2rem;
+}
+
+.main-section {
+  text-align: justify;
+  line-height: 2.8rem;
+}
+
+@media (max-width: 645px) {
+  main {
+    font-size: var(--text-sm-mobile);
+  }
 }

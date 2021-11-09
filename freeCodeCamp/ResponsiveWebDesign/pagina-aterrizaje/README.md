@@ -8,6 +8,7 @@ Puedes usar HTML, JavaScript y CSS para completar este proyecto. Se recomienda u
 Historia de Usuario #1: Mi página de aterrizaje de producto debería tener un elemento header con un respectivo id="header".
 
 Historia de Usuario #2: Puedo ver una imagen dentro del elemento header con un respectivo id="header-img". El logotipo de una empresa sería una buena opción de imagen aquí.
+TODO:
 
 Historia de Usuario #3: Dentro del elemento #header puedo ver un elemento nav con un respectivo id="nav-bar".
 

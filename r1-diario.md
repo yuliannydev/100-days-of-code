@@ -273,10 +273,29 @@ Technical documentation page, por fin ya sé de que la quiero hacer. Cara sonrie
 
 ### R1D33
 
+Mi día 33 lo reporté mal en twitter, equivocándome de día.
+
+Hoy saqué parte de la información para el proyecto de documentación.
+
+También estudie:
+
+- Recursión en JavaScript.
+- Operador ternary.
+
+[Mirar Día 33](https://twitter.com/yuliannydev/status/1456823111760896000)
+
 ### R1D34
+
+Hoy saque todo la info para la página de la documentación, estructurar el contenido lleva trabajo😃.
 
 ### R1D35
 
 ### R1D36
 
 ### R1D37
+
+### R1D38
+
+### R1D39
+
+### R1D40
