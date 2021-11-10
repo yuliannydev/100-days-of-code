@@ -16,7 +16,7 @@
 
 3.  Publicaré mi código a GitHub todos los días para que todos puedan ver mi progreso.
 
-4.  Actualizaré el [diario](diario.md) con el progreso del día y proporcionaré un enlace para que otras personas puedan ver mi progreso.
+4.  Actualizaré el [diario](r1-diario.md) con el progreso del día y proporcionaré un enlace para que otras personas puedan ver mi progreso.
 
 5.  Trabajaré en proyectos verdaderos con la intención de enfrentarme a desafíos verdaderos. El tiempo dedicado a hacer tutoriales, cursos en línea, y otros recursos similares NO contará con respecto a este reto. (Si acabas de empezar a aprender a programar, lee [Preguntas frecuentes](preguntas_frecuentes.md)
 
@@ -24,7 +24,7 @@
 
 1.  Para aumentar las posibilidades de éxito es obligatorio incorporar un enlace en cada uno de sus aportes del día en el [diario](diario.md). Puede ser un enlace a su cuenta en GitHub, un enlace a una entrada de su blog ...
 
-2.  Si te enojas o te atascado lee este artículo [Aprendiendo a programar, cuando se vuelve oscuro](https://www.freecodecamp.org/news/learning-to-code-when-it-gets-dark-e485edfb58fd)
+2.  Si te enojas o te has atascado lee este artículo [Aprendiendo a programar, cuando se vuelve oscuro](https://www.freecodecamp.org/news/learning-to-code-when-it-gets-dark-e485edfb58fd)
 
     - Está en ingles
 
